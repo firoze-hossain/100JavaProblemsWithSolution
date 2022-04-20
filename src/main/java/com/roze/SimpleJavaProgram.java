@@ -1,8 +1,9 @@
-package com.roze.simpleProgram;
+package com.roze;
 
 /**
  *
  * @author firoze
+ * A simple Java Program
  */
 public class SimpleJavaProgram {
 
