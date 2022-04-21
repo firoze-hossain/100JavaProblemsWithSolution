@@ -5,7 +5,7 @@ package com.roze;
  * @author firoze 
  * If Else clause
  */
-public class IfClause10 {
+public class IfElseClause10 {
 
     public static void main(String[] args) {
         boolean learning = false;
