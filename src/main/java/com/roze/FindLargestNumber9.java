@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author firoze
  * Find Largest number
  */
-public class FindLargestNumber {
+public class FindLargestNumber9 {
     public static void main(String[] args) {
         int firstNum,secondNum,thirdNum;
         
