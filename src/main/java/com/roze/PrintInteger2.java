@@ -5,7 +5,7 @@ package com.roze;
  * @author firoze
  * Print Integer
  */
-public class PrintInteger {
+public class PrintInteger2 {
 
     public static void main(String[] args) {
         int i;

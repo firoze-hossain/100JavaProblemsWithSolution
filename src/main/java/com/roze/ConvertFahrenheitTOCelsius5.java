@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author firoze convert Fahrenheit to Celsius
  */
-public class ConvertFahrenheitTOCelsius {
+public class ConvertFahrenheitTOCelsius5 {
 
     public static void main(String[] args) {
         float temperature;

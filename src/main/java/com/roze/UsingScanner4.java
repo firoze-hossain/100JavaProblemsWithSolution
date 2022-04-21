@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author firoze How to get Using input using Scanner Program in java
  */
-public class UsingScanner {
+public class UsingScanner4 {
 
     public static void main(String[] args) {
         int a;
