@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author firoze
  * Nested If Else clause in java
  */
-public class NestedIfElseClause {
+public class NestedIfElseClause11 {
 
     public static void main(String[] args) {
         int obtainedMarks, passingMarks = 40;
