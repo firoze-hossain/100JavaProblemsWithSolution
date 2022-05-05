@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author firoze 
  * While loop using break and continue Program in java
  */
-public class WhileLoopUsingBreakAndContinue {
+public class WhileLoopUsingBreakAndContinue22 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
