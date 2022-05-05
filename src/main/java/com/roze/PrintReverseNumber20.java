@@ -6,6 +6,11 @@ import java.util.Scanner;
  *
  * @author firoze 
  * Print Reverse number using while loop in java program
+ * Such as =>
+ * number = 1234
+ * remainder = 1234 % 10 = 4
+ * reverse = 0 * 10 + 4 = 0 + 4 = 4
+ * number = 1234 / 10 = 123
  */
 public class PrintReverseNumber20 {
 
