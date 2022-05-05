@@ -5,7 +5,7 @@ package com.roze;
  * @author firoze
  * Enhance loop in java Program
  */
-public class EnhanceLoop {
+public class EnhanceLoop24 {
     public static void main(String[] args) {
         int [] prime={2,3,5,7,11,13,17,19,23};
         
