@@ -5,8 +5,7 @@ import java.util.Scanner;
 /**
  *
  * @author firoze
- * Print reverse string in java Program Using Internal java
- * Method
+ * Print reverse string in java Program Using Internal java Method
  */
 public class ReverseStringUsingInternalMethod30_1 {
 
