@@ -3,7 +3,7 @@ package com.roze;
 /**
  *
  * @author firoze 
- * How Static block working in java Program
+ * How Static block working in java Program for finding out os property
  *
  */
 public class StaticBlock44_1 {
