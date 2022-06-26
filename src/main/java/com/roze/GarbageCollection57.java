@@ -7,7 +7,7 @@ package com.roze;
  */
 public class GarbageCollection57 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         Runtime rt = Runtime.getRuntime();
         System.out.println("Free memory in JVM before garbage collection: " + rt.freeMemory());
         rt.gc();
