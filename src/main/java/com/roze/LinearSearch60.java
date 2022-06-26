@@ -15,13 +15,13 @@ public class LinearSearch60 {
         System.out.println("Enter the number of elements: ");
         num = sc.nextInt();
         array = new int[num];
-        System.out.println("Enter number of " + num + " integers: ");
+        System.out.println("Enter " + num + " integers: ");
 
         for (i = 0; i < num; i++) {
             array[i] = sc.nextInt();
         }
 
-        System.out.println("Enter number to find out: ");
+        System.out.println("Enter value to find out: ");
         search = sc.nextInt();
         for (i = 0; i < num; i++) {
             if (array[i] == search) {
